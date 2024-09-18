@@ -3,7 +3,7 @@
 
 - 🌍 I’m currently located in **Ottawa**
 
-- 🧠 I’m currently learning **HTML, JS, CSS**
+- 🧠 I’m currently learning **React and TensorFlow**
 
 - 📖 I’m studying at the **University of Ottawa**
 
