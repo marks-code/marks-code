@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **coding**
 
-- 🪧 All of my projects are available at [markchen.dev](markchen.dev)
+- 🪧 All of my projects are available at [markchen.dev](https://markchen.dev)
 
 - 💬 Ask me about **anything**
 
