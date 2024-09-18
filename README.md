@@ -1,4 +1,4 @@
-<h1 align="center">< 👋, I'm Mark Chen/></h1>
+<h1 align="center">< 👋, I'm Mark Chen /></h1>
 <h3 align="center">Aspiring coder from Canada</h3>
 
 - 🌍 I’m currently located in **Ottawa**
